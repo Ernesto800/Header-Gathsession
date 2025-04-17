@@ -1,12 +1,24 @@
-# React + Vite
+✨ Descripción:
+Implementación del componente header para GathSession, diseñado específicamente para experiencias desktop (1920px). Este proyecto muestra un enfoque deliberado en layouts de alta precisión para pantallas grandes, utilizando:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tailwind CSS para estilos pixel-perfect
 
-Currently, two official plugins are available:
+Posicionamiento absoluto con medidas exactas (top/left en px)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Efectos visuales con bordes decorativos y overlays
 
-## Expanding the ESLint configuration
+🖥️ Características clave:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Diseño no-responsive (optimizado para 1920px)
+
+Tipografía Poppins con jerarquía visual clara
+
+Elementos decorativos posicionados con valores absolutos
+
+Efectos de transición en estados hover
+
+🚀 Uso ideal:
+
+Como referencia de diseño para desktop
+
+Ejemplo de implementación con Tailwind CSS
