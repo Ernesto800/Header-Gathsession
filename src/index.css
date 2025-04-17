@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+    --primary-color: #2B2D38;
+    --secondary-color: #ABABAB;
+    --font-poppins: 'Poppins', 'sans-serif';
+    --font-Merriweather: 'Merriweather', 'sans-serif';
+}
+body {
+    background-color: var(--primary-color);
+    font-family: var(--font-poppins);
+}
+nav a {
+    color: var(--secondary-color);
+}
+nav a:hover {
+    color: #FFFFFF;
+}
+h1 {
+    font-family: var(--font-Merriweather);
+}
